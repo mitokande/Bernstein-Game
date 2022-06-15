@@ -7,18 +7,18 @@ Itch Io: https://infx.itch.io/bernstein
 Director/Programmer:
 Mithat Can Turan
 
-2D art:
+#2D art:
 
 Zeynep Sena Tatlı
 
 Hatice Turan
 
-Game Design:
+#Game Design:
 
 Alican İnsan
 
 Cahit Emre 
 
-Music:
+#Music:
 
 Zeynep Saraaoğlu
