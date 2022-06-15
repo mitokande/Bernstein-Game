@@ -8,12 +8,17 @@ Director/Programmer:
 Mithat Can Turan
 
 2D art:
+
 Zeynep Sena Tatlı
+
 Hatice Turan
 
 Game Design:
+
 Alican İnsan
+
 Cahit Emre 
 
 Music:
+
 Zeynep Saraaoğlu
